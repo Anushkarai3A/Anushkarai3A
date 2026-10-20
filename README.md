@@ -1,123 +1,121 @@
 <div align="center">
 
-<img src="./github-banner.png" width="100%" alt="Anushka Rai"/>
+<img src="./github-banner.png" width="100%" alt="Anushka Rai GitHub Banner" />
 
 <br/>
 
-# ANUSHKA RAI ✦
+# ANUSHKA RAI
 
 ### SOFTWARE DEVELOPER · AI · BACKEND · FULL STACK
 
-*building products at the intersection of AI, code and real-world impact.*
+*Building thoughtful software at the intersection of engineering and AI.*
 
 <br/>
 
 <a href="https://github.com/Anushkarai3A">
-<img src="https://img.shields.io/badge/GitHub-0b0b0f?style=for-the-badge&logo=github&logoColor=c4a7ff"/>
+  <img src="https://img.shields.io/badge/GitHub-Anushkarai3A-171717?style=for-the-badge&logo=github&logoColor=c4b5fd" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/anushka-rai-3111ar/">
-<img src="https://img.shields.io/badge/LinkedIn-0b0b0f?style=for-the-badge&logo=linkedin&logoColor=c4a7ff"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-171717?style=for-the-badge&logo=linkedin&logoColor=c4b5fd" alt="LinkedIn" />
 </a>
 <a href="mailto:anushkarai432@gmail.com">
-<img src="https://img.shields.io/badge/Email-0b0b0f?style=for-the-badge&logo=gmail&logoColor=c4a7ff"/>
+  <img src="https://img.shields.io/badge/Email-Say_Hello-171717?style=for-the-badge&logo=gmail&logoColor=c4b5fd" alt="Email" />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:09090b,100:6d45a6&height=2" width="100%"/>
+`Artificial Intelligence` ✦ `Backend Engineering` ✦ `Full-Stack Development`
 
 </div>
 
-## ☾ `$ whoami`
+---
 
-I'm Anushka, a Computer Science student and software developer interested in building AI-powered products, backend systems, and full-stack applications.
+## ☾ ABOUT ME
 
-I enjoy turning ideas into working products, exploring new technologies, and solving engineering problems with practical applications.
+I'm a software developer interested in building products that combine intelligent systems with reliable engineering.
 
-- ✧ Interested in AI engineering and backend development
-- ✧ Building full-stack applications and intelligent systems
-- ✧ Exploring LLMs, agentic AI, and AI orchestration
-- ✧ Focused on scalable architecture and reliable software
+I enjoy working across the stack, exploring AI-powered workflows, solving problems, and turning ideas into practical applications.
+
+- ✦ Interested in AI engineering, backend systems, and full-stack development.
+- ✦ Enjoy building products from concept to implementation.
+- ✦ Believe in ownership, accountability, and continuous learning.
+- ✦ Always exploring new technologies and better ways to build.
+
+> Curiosity first. Ownership always. Build, test, improve.
 
 ---
 
-## ✦ `$ tech_stack`
+## ✧ TECH STACK
+
+<div align="center">
 
 ### Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,ts,js,html,css&theme=dark"/>
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css" alt="Programming languages" />
 
-### Frontend
+### Frontend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux&theme=dark"/>
-</p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind" alt="Frontend technologies" />
 
-### Backend
+### Backend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark"/>
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend technologies" />
 
-### Databases & Infrastructure
+### Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,docker,aws,gcp,git,github&theme=dark"/>
-</p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Databases" />
 
-### AI / ML & Tools
+### Tools & Infrastructure
 
-<p>
-<img src="https://img.shields.io/badge/LangGraph-171321?style=flat-square&logoColor=c4a7ff"/>
-<img src="https://img.shields.io/badge/LangChain-171321?style=flat-square&logoColor=c4a7ff"/>
-<img src="https://img.shields.io/badge/Groq-171321?style=flat-square&logoColor=c4a7ff"/>
-<img src="https://img.shields.io/badge/OpenCV-171321?style=flat-square&logo=opencv&logoColor=c4a7ff"/>
-<img src="https://img.shields.io/badge/Postman-171321?style=flat-square&logo=postman&logoColor=c4a7ff"/>
-<img src="https://img.shields.io/badge/Socket.io-171321?style=flat-square&logo=socketdotio&logoColor=c4a7ff"/>
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,gcp" alt="Developer tools" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/REST_APIs-171717?style=flat-square" />
+<img src="https://img.shields.io/badge/WebSockets-171717?style=flat-square" />
+<img src="https://img.shields.io/badge/GraphQL-171717?style=flat-square" />
+<img src="https://img.shields.io/badge/LangGraph-171717?style=flat-square" />
+<img src="https://img.shields.io/badge/Machine_Learning-171717?style=flat-square" />
+<img src="https://img.shields.io/badge/Generative_AI-171717?style=flat-square" />
+<img src="https://img.shields.io/badge/PostGIS-171717?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenCV-171717?style=flat-square" />
+<img src="https://img.shields.io/badge/SQLAlchemy-171717?style=flat-square" />
+<img src="https://img.shields.io/badge/Pytest-171717?style=flat-square" />
+
+</div>
 
 ---
 
-## 🌌 `$ featured_projects`
+## ☽ PROJECT ARCHIVE
+
+*A collection of projects spanning AI, backend engineering, full-stack development, data visualization, and problem solving.*
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌿 EcoSphere
+### ◈ [DIVA](https://github.com/Anushkarai3A/DIVA)
 
-A gamified environmental education platform where students complete location-based quests, submit geotagged evidence, and earn XP and badges.
+**AI-Powered Deviation Intake**
 
-Features geospatial functionality, AI-assisted evidence verification, and teacher workflows.
+An AI-powered deviation intake application designed for pharmaceutical API manufacturing. Extracts structured information from uploaded documents or pasted text and assists with impact assessment.
 
-**Stack**
+**Tech Stack**
 
-`React` `TypeScript` `Node.js`  
-`FastAPI` `PostgreSQL` `PostGIS`  
-`Redis` `Docker`
-
-<br/>
-
-<a href="https://github.com/Anushkarai3A/EcoSphere">↗ Explore EcoSphere</a>
+`React` `TypeScript` `Vite` `Redux` `Python` `FastAPI` `LangGraph` `PostgreSQL` `Groq`
 
 </td>
 <td width="50%" valign="top">
 
-### 🪻 DIVA
+### ◈ [EcoSphere](https://github.com/Anushkarai3A/EcoSphere)
 
-An AI-driven deviation intake model designed to capture, categorize, and organize deviation reports for structured review.
+**Gamified Environmental Education**
 
-**Stack**
+A location-based environmental education platform where students complete real-world environmental quests, submit geotagged evidence, and earn experience points and badges.
 
-`React` `TypeScript` `Vite`  
-`Python` `FastAPI` `LangGraph`  
-`Groq` `PostgreSQL`
+**Tech Stack**
 
-<br/>
-
-<a href="https://github.com/Anushkarai3A?tab=repositories">↗ Explore repositories</a>
+`React` `TypeScript` `Vite` `Tailwind CSS` `Node.js` `Express` `Prisma` `PostGIS` `Redis` `FastAPI` `OpenCV` `YOLOv8`
 
 </td>
 </tr>
@@ -125,70 +123,157 @@ An AI-driven deviation intake model designed to capture, categorize, and organiz
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 NexusAI
+### ◈ [NexusAI](https://github.com/Anushkarai3A/NexusAI)
 
-An AI-powered interview preparation platform featuring voice-driven coding feedback, interview simulations, secure authentication, and performance analytics.
+**AI Interview Preparation**
 
-**Stack**
+An AI-powered interview preparation application designed to help users practice interviews through interactive experiences and speech-enabled functionality.
 
-`MERN` `Web Speech API`  
-`JWT` `REST APIs` `WebSockets`
+**Tech Stack**
 
-<br/>
-
-<a href="https://github.com/Anushkarai3A?tab=repositories">↗ Explore repositories</a>
+`JavaScript` `React` `Web Speech API` `JWT` `Role-Based Access`
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 AntiGravity Analytics
+### ◈ [Realtime-Analytics-Dashboard](https://github.com/Anushkarai3A/Realtime-Analytics-Dashboard)
 
-A real-time analytics dashboard streaming system metrics through WebSockets and visualizing live data with interactive charts.
+**Real-Time Data Visualization**
 
-**Stack**
+A real-time analytics dashboard built around streaming updates and interactive data visualization.
 
-`React` `Node.js` `Socket.io`  
-`WebSockets` `Recharts`
+**Tech Stack**
 
-<br/>
-
-<a href="https://github.com/Anushkarai3A?tab=repositories">↗ Explore repositories</a>
+`JavaScript` `React` `Socket.IO` `WebSockets` `Recharts`
 
 </td>
 </tr>
 
 <tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
-### 🔄 SkillSwap
+### ◈ [SkillSwap](https://github.com/Anushkarai3A/SkillSwap)
 
-A peer learning and mentorship platform that enables users to exchange skills, book mentorship sessions, and communicate through real-time chat.
+**Peer-to-Peer Learning Marketplace**
 
-**Stack**
+A platform for people to exchange skills, connect with other learners, arrange learning sessions, and communicate through real-time features.
 
-`MERN` `JWT` `Bcrypt` `Socket.io` `REST APIs`
+**Tech Stack**
 
-<br/>
+`MERN` `React` `Node.js` `Express` `MongoDB`
 
-<a href="https://github.com/Anushkarai3A?tab=repositories">↗ Explore repositories</a>
+</td>
+<td width="50%" valign="top">
+
+### ◈ [bank-api](https://github.com/Anushkarai3A/bank-api)
+
+**Indian Bank & Branch REST API**
+
+A REST API for retrieving, searching, and exploring Indian banks and their branches using IFSC codes, with pagination and automated testing.
+
+**Tech Stack**
+
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Pytest`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ◈ [steer-ai-pipeline](https://github.com/Anushkarai3A/steer-ai-pipeline)
+
+**AI Research-to-Content Pipeline**
+
+An AI-powered pipeline that transforms scientific papers into evidence-backed social media carousels, static posts, reels, and editable PowerPoint presentations, with traceable claims.
+
+**Tech Stack**
+
+`Python` `AI` `Content Generation` `Research Automation`
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ [steer-quiz](https://github.com/Anushkarai3A/steer-quiz)
+
+**Interactive Educational Experience**
+
+A mobile-first educational experience that simplifies complex health topics through engaging storytelling, intuitive visuals, and science-backed insights.
+
+**Tech Stack**
+
+`TypeScript` `Interactive UI` `Educational Technology`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ◈ [LeetCode-Solutions](https://github.com/Anushkarai3A/LeetCode-Solutions)
+
+**Data Structures & Algorithms**
+
+A collection of coding problem solutions focused on improving algorithmic thinking, problem-solving skills, and data structures knowledge.
+
+**Tech Stack**
+
+`Java` `Data Structures` `Algorithms`
+
+</td>
+<td width="50%" valign="top">
+
+### ◈ [SmartParkingSystem](https://github.com/Anushkarai3A/SmartParkingSystem)
+
+**Smart Parking Management System**
+
+A Java-based project exploring software solutions for parking management.
+
+**Tech Stack**
+
+`Java`
 
 </td>
 </tr>
 </table>
 
+<div align="center">
+
+<a href="https://github.com/Anushkarai3A?tab=repositories">
+  <img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-171717?style=for-the-badge&logo=github&logoColor=c4b5fd" alt="Explore all repositories" />
+</a>
+
+</div>
+
 ---
 
-## ☁️ `$ github_activity`
+## ✦ GITHUB STATISTICS
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Anushkarai3A&show_icons=true&hide_border=true&bg_color=09090b&title_color=c4a7ff&icon_color=c4a7ff&text_color=e6e0f0" alt="GitHub statistics"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Anushkarai3A&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=a78bfa&text_color=d1d5db&rank_icon=github" alt="GitHub statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushkarai3A&layout=compact&hide_border=true&bg_color=09090b&title_color=c4a7ff&text_color=e6e0f0" alt="Most used languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anushkarai3A&layout=compact&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=d1d5db" alt="Most used programming languages" />
 
 <br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Anushkarai3A&bg_color=09090b&color=c4a7ff&line=9b72cf&point=e6e0f0&area=true&hide_border=true" alt="Contribution graph"/>
+<img src="https://streak-stats.demolab.com?user=Anushkarai3A&hide_border=true&background=0D1117&ring=C4B5FD&fire=A78BFA&currStreakLabel=C4B5FD&sideLabels=D1D5DB&currStreakNum=D1D5DB&sideNums=D1D5DB&dates=888888" alt="GitHub contribution streak" />
+
+<br/><br/>
+
+</div>
+
+---
+
+## ✦ CURRENTLY EXPLORING
+
+<div align="center">
+
+`AI Engineering` ✦ `LLM Applications` ✦ `Backend Architecture`
+
+<br/>
+
+`Intelligent Workflows` ✦ `Full-Stack Products` ✦ `Problem Solving`
 
 </div>
 
@@ -196,16 +281,20 @@ A peer learning and mentorship platform that enables users to exchange skills, b
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6d45a6,100:09090b&height=2" width="100%"/>
+### *"Stay curious. Build things that matter."*
 
 <br/>
 
-✧ *curious mind · intentional builder · always a work in progress* ✧
-
-`ideas → experiments → systems → impact`
+Building with intention. Learning continuously. Taking ownership.
 
 <br/>
 
-<sub>Built with curiosity and a little midnight magic ☾</sub>
+<img src="https://img.shields.io/badge/BUILT_WITH-CURIOSITY-c4b5fd?style=flat-square&labelColor=171717" alt="Built with curiosity" />
+
+<br/><br/>
+
+<a href="https://github.com/Anushkarai3A">
+  <img src="https://img.shields.io/badge/LET'S_BUILD_SOMETHING-171717?style=for-the-badge&logo=github&logoColor=c4b5fd" alt="Let's build something" />
+</a>
 
 </div>
